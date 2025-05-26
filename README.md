@@ -1,3 +1,22 @@
+# Custom Event Calendar
+
+A dynamic, interactive event calendar built with React, date-fns, and React DnD. Supports adding, editing, deleting, and dragging events, with recurring event support and localStorage persistence.
+
+## Setup
+1. Clone the repository: `git clone <repo-url>`
+2. Install dependencies: `npm install`
+3. Run the app: `npm start`
+
+## Features
+- Monthly calendar view with navigation
+- Add, edit, delete events
+- Recurring events (daily, weekly, monthly)
+- Drag-and-drop rescheduling
+- Event conflict detection
+- LocalStorage persistence
+
+## Live Demo
+[Link to deployed app, e.g., on Netlify or Vercel]
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
