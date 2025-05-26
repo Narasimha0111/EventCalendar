@@ -17,6 +17,7 @@ A dynamic, interactive event calendar built with React, date-fns, and React DnD.
 
 ## Live Demo
 https://event-calendar-91szwnh9w-narasimhas-projects-2535efa4.vercel.app/
+https://event-calendar-1dhlouyk3-narasimhas-projects-2535efa4.vercel.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
