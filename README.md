@@ -10,13 +10,13 @@ A dynamic, interactive event calendar built with React, date-fns, and React DnD.
 ## Features
 - Monthly calendar view with navigation
 - Add events
-- Recurring events (daily, weekly, monthly, custom)
+- Recurring events (daily, weekly, monthly)
 - Drag-and-drop rescheduling
 - Event conflict detection
 - LocalStorage persistence
 
 ## Live Demo
-[Link to deployed app, e.g., on Netlify or Vercel]
+https://event-calendar-91szwnh9w-narasimhas-projects-2535efa4.vercel.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
