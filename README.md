@@ -3,7 +3,7 @@
 A dynamic, interactive event calendar built with **React**, **date-fns**, and **React DnD**. It supports adding, editing, deleting, and dragging events — including **recurring events** with localStorage persistence.
 
 ## 🚀 Live Demo  
-🔗 [https://event-calendar-1dhlouyk3-narasimhas-projects-2535efa4.vercel.app](https://event-calendar-1dhlouyk3-narasimhas-projects-2535efa4.vercel.app)
+🔗 [[https://event-calendar-1dhlouyk3-narasimhas-projects-2535efa4.vercel.app](https://event-calendar-9ei1rh8ih-narasimhas-projects-2535efa4.vercel.app/)
 
 ## ✨ Features
 - 📅 Monthly calendar view with navigation
