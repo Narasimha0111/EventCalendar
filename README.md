@@ -9,7 +9,7 @@ A dynamic, interactive event calendar built with React, date-fns, and React DnD.
 
 ## Features
 - Monthly calendar view with navigation
-- Add, edit, delete events
+- Add events
 - Recurring events (daily, weekly, monthly)
 - Drag-and-drop rescheduling
 - Event conflict detection
